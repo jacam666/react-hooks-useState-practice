@@ -16,6 +16,7 @@ h1 {
     font-weight: bold;
     display: inline-block;
 }
+
 .gallery {
     display: flex;
     width: auto;
