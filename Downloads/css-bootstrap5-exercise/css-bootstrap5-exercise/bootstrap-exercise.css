@@ -1,0 +1,31 @@
+.heading {
+    display: block;
+    text-align: center;
+    clear: both;
+    padding: 20px 0;
+    font-size: 28px;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    border: 1px solid rgb(173, 170, 170);
+    width: 100%;
+}
+.image1,
+.image2,
+.image3 {
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+}
+.text {
+    width: 100%;
+    border: 1px solid rgb(230, 222, 222);
+    border-top: 0;
+    padding: 13px;
+}
+p {
+    font-size: 12px;
+    font-weight: bold;
+}
